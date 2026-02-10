@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "Will You Be My Valentine?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I wanna be yours forever, I love you! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -33,9 +33,38 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
+        },
+        fourth: {
+            text: "sige na please?", // The big question!
+            yesBtn: "YES NA!",                                             // Text for "Yes" button
+            noBtn: "DI DIAY KO"                                                 // Text for "No" button
+        },
+        fifth: {
+            text: "dili gihapon ka?", // The big question!
+            yesBtn: "GANAHAN NA!",                                             // Text for "Yes" button
+            noBtn: "DI GIHAPON KO BLE"                                                 // Text for "No" button
+        },
+        sixth: {
+            text: "ahh so dili jud ka?", // The big question!
+            yesBtn: "YES NA YES NA!",                                             // Text for "Yes" button
+            noBtn: "PUGSA SAKO"                                                 // Text for "No" button
+        },
+        seventh: {
+            text: "please na my baby palangga", // The big question!
+            yesBtn: "YES NAKO!",                                             // Text for "Yes" button
+            noBtn: "PUGSA SAKO"                                                 // Text for "No" button
+        },
+        eighth: {
+            text: "sure najud kas imo desisyon sa life?", // The big question!
+            yesBtn: "YES NA KAAYU KO!",                                             // Text for "Yes" button
+            noBtn: "PUGSA SA LAGE KOG MAAYO"                                                 // Text for "No" button
+        },
+        ninth: {
+            text: "I'll ask you one last time. Will you be my Valentine on February 14th, 2026? 🌹?", // The big question!
+            yesBtn: "YES NA BABY KOOO!",                                             // Text for "Yes" button
         }
     },
 
@@ -57,11 +86,11 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#A1E3F9",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#A1E3F9",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#0F67B1",     // Button color (should stand out against the background)
+        buttonHover: "#f0F67B1",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#003285"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
