@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Will You Be My Valentine?",                                    // First interaction
+            text: "Dou you have a crush on me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I wanna be yours forever, I love you! ❤️"           // Secret hover message
@@ -36,36 +36,7 @@ const CONFIG = {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
-        },
-        fourth: {
-            text: "sige na please?", // The big question!
-            yesBtn: "YES NA!",                                             // Text for "Yes" button
-            noBtn: "DI DIAY KO"                                                 // Text for "No" button
-        },
-        fifth: {
-            text: "dili gihapon ka?", // The big question!
-            yesBtn: "GANAHAN NA!",                                             // Text for "Yes" button
-            noBtn: "DI GIHAPON KO BLE"                                                 // Text for "No" button
-        },
-        sixth: {
-            text: "ahh so dili jud ka?", // The big question!
-            yesBtn: "YES NA YES NA!",                                             // Text for "Yes" button
-            noBtn: "PUGSA SAKO"                                                 // Text for "No" button
-        },
-        seventh: {
-            text: "please na my baby palangga", // The big question!
-            yesBtn: "YES NAKO!",                                             // Text for "Yes" button
-            noBtn: "PUGSA SAKO"                                                 // Text for "No" button
-        },
-        eighth: {
-            text: "sure najud kas imo desisyon sa life?", // The big question!
-            yesBtn: "YES NA KAAYU KO!",                                             // Text for "Yes" button
-            noBtn: "PUGSA SA LAGE KOG MAAYO"                                                 // Text for "No" button
-        },
-        ninth: {
-            text: "I'll ask you one last time. Will you be my Valentine on February 14th, 2026? 🌹?", // The big question!
-            yesBtn: "YES NA BABY KOOO!",                                             // Text for "Yes" button
-        
+
     },
 
     // Love meter messages
