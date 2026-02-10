@@ -65,7 +65,7 @@ const CONFIG = {
         ninth: {
             text: "I'll ask you one last time. Will you be my Valentine on February 14th, 2026? 🌹?", // The big question!
             yesBtn: "YES NA BABY KOOO!",                                             // Text for "Yes" button
-        }
+        
     },
 
     // Love meter messages
